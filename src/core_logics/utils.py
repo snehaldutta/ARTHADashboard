@@ -1,4 +1,4 @@
-from src.core_logics.ticker import fetch_ticker
+from ticker import fetch_ticker
 
 def fetch_symbol(company_name: str) -> str:
     """

@@ -1,4 +1,4 @@
-from utils import calculate_rsi, calculate_moving_average
+from src.core_logics.utils import calculate_rsi, calculate_moving_average
 from datetime import datetime
 from src.core_logics.data_preprocess import fetch_data, clean_data
 import src.core_logics.viz as viz
