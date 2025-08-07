@@ -1,7 +1,7 @@
-from helper_funcs import calculate_rsi, calculate_moving_average
+from utils import calculate_rsi, calculate_moving_average
 from datetime import datetime
-from data_preprocess import fetch_data, clean_data
-import viz
+from src.core_logics.data_preprocess import fetch_data, clean_data
+import src.core_logics.viz as viz
 
 def run_analysis(company_name, date_mode, months=None, start_date=None, end_date=None, plot_type=None):
     """

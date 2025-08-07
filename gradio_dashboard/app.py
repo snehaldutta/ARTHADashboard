@@ -1,4 +1,4 @@
-from main import launch_ui
+from gradio_dashboard.main import launch_ui
 import sys
 
 
