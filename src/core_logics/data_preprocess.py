@@ -1,4 +1,4 @@
-from helper_funcs import fetch_symbol
+from utils import fetch_symbol
 import pandas as pd
 import yfinance as yf
 
