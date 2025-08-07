@@ -7,7 +7,7 @@ title: ARTHA Dashboard
 
 **ARTHA Dashboard** is an interactive and lightweight stock market dashboard that enables users to visualize stock price movements, explore trends, and filter historical stock data for any publicly traded company. Built using Python's data stack and deployed on Hugging Face Spaces, it delivers a simple, fast, and intuitive interface for both technical and non-technical users.
 
-[ARTHA Dashboard Demo](📈 Stock Portfolio Dashboard - 7 August 2025 - Watch Video)
+[ARTHA Dashboard Demo](<div style="position: relative; padding-bottom: 52.708333333333336%; height: 0;"><iframe src="https://www.loom.com/embed/1a634f2d40ed4b4392a7552910ae23b2?sid=0dca7e64-30b0-4f11-b4d3-456bdfec3f67" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
 
 ---
 
